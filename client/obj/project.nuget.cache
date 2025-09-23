@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXVXBGd6Be4=",
+  "success": true,
+  "projectFilePath": "C:\\fontes\\OllamaNet\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddani\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.9.0\\microsoft.extensions.ai.abstractions.9.9.0.nupkg.sha512",
+    "C:\\Users\\ddani\\.nuget\\packages\\ollamasharp\\5.4.6\\ollamasharp.5.4.6.nupkg.sha512"
+  ],
+  "logs": []
+}
