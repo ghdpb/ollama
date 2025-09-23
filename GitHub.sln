@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ollamaNet", "ollamaNet", "{870F8040-6398-0F0D-154B-39BB32779B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OllamaNetIntegration", "ollamaNet\OllamaNetIntegration\OllamaNetIntegration.csproj", "{ADFB3125-4C46-B476-664E-1308C884B8F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{41D3510B-A54C-4D01-A4C2-6336254EBCBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,16 +12,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADFB3125-4C46-B476-664E-1308C884B8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADFB3125-4C46-B476-664E-1308C884B8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADFB3125-4C46-B476-664E-1308C884B8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADFB3125-4C46-B476-664E-1308C884B8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D3510B-A54C-4D01-A4C2-6336254EBCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D3510B-A54C-4D01-A4C2-6336254EBCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D3510B-A54C-4D01-A4C2-6336254EBCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D3510B-A54C-4D01-A4C2-6336254EBCBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{ADFB3125-4C46-B476-664E-1308C884B8F5} = {870F8040-6398-0F0D-154B-39BB32779B8A}
+		{41D3510B-A54C-4D01-A4C2-6336254EBCBD} = {870F8040-6398-0F0D-154B-39BB32779B8A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {38832F78-39BC-48E6-ABCC-C513403AB72D}
